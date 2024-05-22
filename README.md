@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57385c&height=120&section=header"/>
+
 <img align='right' bg_color=midnight-purple src="https://github-readme-stats.vercel.app/api?username=laycsz&theme=dracula&show_icons=true">
 
 
@@ -21,4 +21,4 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-1e97e8?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=1e97e8)
 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57385c&height=120&section=footer"/>
+
