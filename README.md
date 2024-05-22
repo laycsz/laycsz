@@ -20,6 +20,5 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
 ![VS Code](https://img.shields.io/badge/-VSCode-1e97e8?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=1e97e8)
 
-<img align='right' position='right'  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laycsz&layout=compact&hide_border=true&theme=dracula&" />
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57385c&height=120&section=footer"/>
