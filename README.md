@@ -13,8 +13,11 @@ Sou uma desenvolvedora de sistemas apaixonada por tecnologia e inovação. Ja tr
  <br /> 
 📖 Aprender novas linguagens de programação e tecnologias.
  <br /> 
-💻 Acrescentar projetos no meu portfólio.
+⚙ Acrescentar projetos no meu portfólio.
 
+## 💻 Habilidades 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql,postgresql,figma,intellij)](https://skillicons.dev)
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laycsz/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laycsz/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](laylasousa908@gmail.com)
