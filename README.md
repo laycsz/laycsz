@@ -9,8 +9,10 @@ Sou uma desenvolvedora de sistemas apaixonada por tecnologia e inovação. Ja tr
 
 ## 🎯 Objetivo
 
-✨ Desenvolver habilidades em metodologias ágeis
+✨ Desenvolver habilidades em metodologias ágeis.
+ <br /> 
 📖 Aprender novas linguagens de programação e tecnologias.
+ <br /> 
 💻 Acrescentar projetos no meu portfólio.
 
 
