@@ -18,6 +18,6 @@ Sou uma desenvolvedora de sistemas apaixonada por tecnologia e inovação. Ja tr
 ## 💻 Habilidades 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql,postgresql,figma,intellij)](https://skillicons.dev)
 
-## 🔗 Links
+## 📲 Contatos
 [![My Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laycsz/)
 [![My Links](https://skillicons.dev/icons?i=gmail)](laylasousa908@gmail.com)
