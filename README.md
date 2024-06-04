@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Layla :)
 
-## Estudante de Análise e Desenvolvimento de Sistemas | Estágiaria de TI 
+## Estudante de Análise e Desenvolvimento de Sistemas
 
 ## 👩🏻‍💻 Sobre mim
 
