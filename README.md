@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Layla :)
 
-## Estudante de Análise e Desenvolvimento de Sistemas
+## Estudante de Análise e Desenvolvimento de Sistemas | Web Designer
 
 ## 👩🏻‍💻 Sobre mim
 
