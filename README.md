@@ -5,13 +5,14 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou uma desenvolvedora de sistemas apaixonada por tecnologia e inovação. Ja trabalhei com desenvolvimento web, implementação de banco de dados e testes. Possuo nível intermediário de inglês e estou sempre em busca de novos desafios e oportunidades de aprendizado na área de desenvolvimento de sistemas.
+Sou apaixonada por tecnologia e, especialmente, por web design. Adoro transformar ideias em sites bonitos e funcionais que melhoram a experiência do usuário. Já trabalhei com desenvolvimento web, e criei interfaces intuitivas, implementei bancos de dados e realizei testes para garantir a qualidade dos projetos.
 
+Estou sempre em busca de novos desafios que me permitam melhorar as minhas habilidades e crescer profissionalmente. Gosto de me manter atualizada e aprender novas tecnologias, sempre pensando em como posso aplicar esse conhecimento em projetos inovadores e criativos.
 ## 🎯 Objetivo
 
-✨ Desenvolver habilidades em metodologias ágeis.
+✨ Desenvolver minhas habilidades em metodologias ágeis.
  <br /> 
-📖 Aprender novas linguagens de programação e tecnologias.
+📖 Aprender novas linguagens de programação e tecnologias de design.
  <br /> 
 ⚙ Acrescentar projetos no meu portfólio.
 
